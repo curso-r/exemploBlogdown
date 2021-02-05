@@ -20,10 +20,10 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [params]
-title = "I'm Jane Doe"
-author = "Jane Doe"
+title = "Blogdown, hugo e você"
+author = "Twitch do Athos"
 #copyright = "2020-2021"
-description = "Call me Jane"
+description = "R é vida"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
@@ -56,22 +56,22 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
 title = "Linkedin"
-url = "https://de.linkedin.com/"
+url = "https://br.linkedin.com/in/athosdamiani"
 
 [[params.socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
+url = "https://github.com/williamorim"
 
 [[params.socialIcons]]
 icon = "fab fa-instagram"
 title = "instagram"
-url = "https://www.instagram.com/"
+url = "https://curso-r.com"
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:mail@alexbilz.com"
+url = "mailto:contato@curso-r.com"
 
 ## Menu items
 
@@ -84,19 +84,19 @@ url = "mailto:mail@alexbilz.com"
   url = "/"
 
   [[menu.main]]
-  name = "Posts"
+  name = "Meus posts"
   weight = 200
   identifier = "posts"
   url = "/post/"
 
   [[menu.main]]
-  name = "About"
+  name = "Sobre"
   weight = 300
   identifier = "about"
   url = "/about/"
 
   [[menu.main]]
-  name = "Contact"
+  name = "contato"
   weight = 400
   identifier = "contact"
   url = "/contact/"
