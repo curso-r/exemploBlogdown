@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>twitch on Exemplo de blogdown na Live do Athos</title>
+    <link>https://curso-r.github.io/exemploBlogdown/tags/twitch/</link>
+    <description>Recent content in twitch on Exemplo de blogdown na Live do Athos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 04 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://curso-r.github.io/exemploBlogdown/tags/twitch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Live do super Athos</title>
+      <link>https://curso-r.github.io/exemploBlogdown/post/image-test/</link>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://curso-r.github.io/exemploBlogdown/post/image-test/</guid>
+      <description>É aqui que a festa acontece.</description>
+    </item>
+    
+  </channel>
+</rss>

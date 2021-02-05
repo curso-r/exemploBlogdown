@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Exemplo de blogdown na Live do Athos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://curso-r.github.io/exemploBlogdown/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://curso-r.github.io/exemploBlogdown/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Live do super Athos</title>
+      <link>https://curso-r.github.io/exemploBlogdown/post/image-test/</link>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://curso-r.github.io/exemploBlogdown/post/image-test/</guid>
+      <description>É aqui que a festa acontece.</description>
+    </item>
+    
     <item>
       <title>Markdown Syntax Guide</title>
       <link>https://curso-r.github.io/exemploBlogdown/post/markdown-syntax/</link>
@@ -41,24 +50,6 @@
       
       <guid>https://curso-r.github.io/exemploBlogdown/post/math-typesetting/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>https://curso-r.github.io/exemploBlogdown/post/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://curso-r.github.io/exemploBlogdown/post/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Guide to Thumbnails in Hugo</title>
-      <link>https://curso-r.github.io/exemploBlogdown/post/image-test/</link>
-      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://curso-r.github.io/exemploBlogdown/post/image-test/</guid>
-      <description>Thumbnails can be enabled easily by setting the thumbnail parameter in the frontmatter to an image such as &amp;quot;images/landscape.</description>
     </item>
     
   </channel>

@@ -3,13 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://curso-r.github.io/exemploBlogdown/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <loc>https://curso-r.github.io/exemploBlogdown/</loc>
+    <lastmod>2021-02-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://curso-r.github.io/exemploBlogdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://curso-r.github.io/exemploBlogdown/post/image-test/</loc>
+    <lastmod>2021-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://curso-r.github.io/exemploBlogdown/post/</loc>
+    <lastmod>2021-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://curso-r.github.io/exemploBlogdown/tags/</loc>
+    <lastmod>2021-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://curso-r.github.io/exemploBlogdown/tags/twitch/</loc>
+    <lastmod>2021-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://curso-r.github.io/exemploBlogdown/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -38,17 +58,7 @@
   </url>
   
   <url>
-    <loc>https://curso-r.github.io/exemploBlogdown/post/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://curso-r.github.io/exemploBlogdown/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://curso-r.github.io/exemploBlogdown/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -90,26 +100,6 @@
   <url>
     <loc>https://curso-r.github.io/exemploBlogdown/post/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://curso-r.github.io/exemploBlogdown/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://curso-r.github.io/exemploBlogdown/post/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://curso-r.github.io/exemploBlogdown/post/image-test/</loc>
-    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://curso-r.github.io/exemploBlogdown/tags/thumbnail/</loc>
-    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
