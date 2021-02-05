@@ -1,0 +1,16 @@
+---
+title: Curtam a gente!
+author: Athos e turma
+date: '2021-02-04'
+slug: []
+categories:
+  - R
+tags:
+  - index
+Description: ''
+Tags: []
+Categories: []
+DisableComments: no
+---
+
+Aqui a festa acontece de novo!
