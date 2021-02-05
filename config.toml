@@ -1,4 +1,4 @@
-baseURL = "https://curso-r.github.io/"
+baseURL = "https://curso-r.github.io/exemploBlogdown/"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Exemplo de blogdown na Live do Athos"

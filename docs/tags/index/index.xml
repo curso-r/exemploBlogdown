@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>index on Exemplo de blogdown na Live do Athos</title>
-    <link>https://curso-r.github.io/tags/index/</link>
+    <link>https://curso-r.github.io/exemploBlogdown/tags/index/</link>
     <description>Recent content in index on Exemplo de blogdown na Live do Athos</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://curso-r.github.io/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://curso-r.github.io/exemploBlogdown/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
-      <link>https://curso-r.github.io/post/</link>
+      <link>https://curso-r.github.io/exemploBlogdown/post/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://curso-r.github.io/post/</guid>
+      <guid>https://curso-r.github.io/exemploBlogdown/post/</guid>
       <description></description>
     </item>
     

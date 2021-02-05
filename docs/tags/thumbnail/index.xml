@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>thumbnail on Exemplo de blogdown na Live do Athos</title>
-    <link>https://curso-r.github.io/tags/thumbnail/</link>
+    <link>https://curso-r.github.io/exemploBlogdown/tags/thumbnail/</link>
     <description>Recent content in thumbnail on Exemplo de blogdown na Live do Athos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://curso-r.github.io/tags/thumbnail/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://curso-r.github.io/exemploBlogdown/tags/thumbnail/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Guide to Thumbnails in Hugo</title>
-      <link>https://curso-r.github.io/post/image-test/</link>
+      <link>https://curso-r.github.io/exemploBlogdown/post/image-test/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://curso-r.github.io/post/image-test/</guid>
+      <guid>https://curso-r.github.io/exemploBlogdown/post/image-test/</guid>
       <description>Thumbnails can be enabled easily by setting the thumbnail parameter in the frontmatter to an image such as &amp;quot;images/landscape.</description>
     </item>
     
